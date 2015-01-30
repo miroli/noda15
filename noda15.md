@@ -54,7 +54,7 @@ Det hela blev storytellingprojektet [Gjeldskrisen](http://www.vg.no/spesial/2014
 #####Flera typer av storytelling
 Tre kategorier de jobbar med: "Visual storytelling" (kräver mycket finess, se t.ex. [Laerdal](http://www.vg.no/spesial/2015/laerdal/) som var 50k tecken i tidningen, där den digitala versionen till viss del översattes till visuella element), "longreads" som är mer Snowfall-aktiga (kan bara berättas med text, t.ex. om pojke som begick självmord), och "the hybrid" (se t.ex. [Mysteriet – Scandinavian Star](http://scandinavian-star.vg.no/)) som inte har en klar storyline, där du snarare försöker berätta en del "substories" som t.ex. Estoniaprojekten.
 
-######Viktigt att veta:
+######Viktigt att veta om storytelling:
 
 - You need a good storyline
 - It's time consuming
@@ -63,4 +63,16 @@ Tre kategorier de jobbar med: "Visual storytelling" (kräver mycket finess, se t
 - Involves tech changes, reusability is at the time is pretty low
 - Evaluate
 
-Viktigt att träna sig i digital storytelling. Läsarna älskar det när det blir rätt.
+Viktigt att träna sig i digital storytelling. Läsarna älskar det när det blir rätt. Ibland måste du slänga dina bra idéer eller ny teknik du precis har lärt dig, och välja den enkla vägen (men spara dem någonstans, du behöver dem senare).
+
+######Principer för interaktiva projekt:
+
+- Aim high,
+- Go for simplicity and quality if time is short,
+- Use common tools (e.g. CartoDB, Tableau, R)
+- Make a publishing plan
+- Ensure a life on social media
+- Track your data
+- Kill some darlings
+- Remember your errors
+- HAVE FUN!
