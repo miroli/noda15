@@ -7,6 +7,7 @@ __Innehåll__
 * 3. VG's do's and don'ts
 * 4. Interactive featuremaking (The Guardian)
 * 5. What should we expect the readers to know? (Helsingin Sanomat)
+* 6. Hur vi byggde #SMPlab? (Sunnmørsposten)
 
 ####1. Aron Pilhofer
 
@@ -142,7 +143,7 @@ Projektet involverade många personer med olika kompetenser, både internt och e
 
 ####5. What should we expect the readers to know?
 
-[Esa Mäkinen](http://www.esamakinen.fi/e/) från Helsingin Sanomat. Om att designa UI för läsarförståelse. De har ett eget verktyg för in-app analytics.
+[Esa Mäkinen](http://www.esamakinen.fi/e/) från Helsingin Sanomat. Om att designa UI för läsarförståelse. De har ett eget verktyg för in-app analytics. Se [denna länk](http://www.hs.fi/aihe/datajournalismi/) för en översikt av tidningens interaktiva projekt.
 
 #####Exempel 1: [The Dress Machine](http://www.hs.fi/kotimaa/a1305901177538)
 82k användare, 15k återvändande användare (19%). 1,4 miljoner actions, 17 per användare (högt relativt till deras andra projekt).
@@ -182,3 +183,23 @@ WOW! är dött. De flesta wow-effekter bygger på stora bilder och videoklipp, m
 Endast skroll är universellt.
 
 Var tydlig med vilken slags applikation besökarna har framför sig. Ha gärna med "quiz" i rubriken om det är ett quiz. Små hjälpdetaljer som skyltar, popups etc är underskattat. Behöver inte vara tecken på dålig design.
+
+####6. Sunnmørsposten: Hvordan bygget vi #SMPlab?
+
+__Vad är datajournalistik för oss?__ Tre kriterier: ett bra dataunderlag, datafiltrering och digital storytelling.
+
+__Exempelprojekt (namn?):__
+Data: 937 domar, lagavsnitt.
+Filtrering: Ta fram Sunmörspostens distrikt.
+Digital storytelling: Visualisera datan på sajten.
+
+__Hur kom vi igång?__
+Under startfasen började vi med att bygga och dela med oss av kompetensen på tidningen. Vi kartlade olika verktyg som fanns tillgängliga, vi körde workshops i huset, och vi gjorde försöksprojekt (i syfte att lära).
+
+Något av det allra första vi gjorde var att skapa Google Fusion-kartor (vilket vi inte använder oss av längre). Steg två var att lägga till lite grafik i kartorna (popups och ikoner).
+
+__Den heliga treenigheten:__ journalistik, webbdesign och programmering. När vi hade detta på plats på redaktionen kunde vi börja jobba.
+
+__Organisering:__ Vi började i en mörk hörna och gick till nyhetsdesken. Det är viktigt att jobba i samspel med resten av redaktionen. Vi sitter två meter från webbredaktionen.
+
+För attt skapa en innovationskultur: Skapa rum för lekfullhet och experiment. Var inte rädd för att misslyckas. Men styr leken i strategiskt viktiga riktningar. Växla mellan datatunga projekt till mer lekfulla storytellingprojekt.
