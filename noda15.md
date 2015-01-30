@@ -9,6 +9,8 @@ Det fanns förut en princip på NYT om att man skulle byta ut huvudbilden på et
 
 Artiklar kan kategoriseras som "givers" och "receivers". Vissa artiklar ökar trafiken till övriga sajten, medan andra är "dead ends". Behöver göras mer sofistikerade analyser av hur besökarna rör sig vidare från ens artiklar.
 
+Varför är just antal klick och antal unika besökare intressant? Se t.ex. Medium som istället mäter lästid. Våra vanliga mätparametrar är anpassade för annonsmakarna.
+
 ####2. Kristoffer Örstadius
 
 #####[Myndigheter censurear Wikipediatexter](http://www.dn.se/ekonomi/myndigheter-censurerar-wikipediatexter/):
@@ -30,3 +32,5 @@ Granska officiell statistik (BRÅ). Kan man se om det fuskades med siffror i inr
 
 #####Vädergranskning:
 Tankade hem data om vädret dagen efter, och jämförde sen hur bra de stämmer överens. Stämde bara vid hälften av tillfällena.
+
+####3. VG's do's and don'ts (lärdomar 2014)
