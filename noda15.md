@@ -218,7 +218,7 @@ __Publikfråga från svenska Stampen:__ _Vad hade programmeraren för bakgrund?_
 
 Svar: Han hade tidigare drivit ett eget företag och hade inte haft med media att göra. Det var dock ett minimalt problem. Kom in i arbetssättet så småningom, och ett nytt perspektiv var nyttigt.
 
-####Live the story, through technology
+####7. Live the story, through technology
 
 Av programmeraren bakom [Immersive Journalism](http://www.immersivejournalism.com/).
 
