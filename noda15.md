@@ -136,5 +136,34 @@ Projektet involverade många personer med olika kompetenser, både internt och e
 
 - Tidsåtgången
 - Att beskriva projektet (utan att veta hur det blir i slutet)
-- Personalhantering
-- Kostnad
+- Personalhantering (många involverade, internt och externt)
+- Kostnad (t.ex. billigare att spela in historikernas röster istället för att spela in dem på video)
+
+####5. What should we expect the readers to know?
+
+[Esa Mäkinen](http://www.esamakinen.fi/e/) från Helsingin Sanomat. Om att designa UI för läsarförståelse. De har ett eget verktyg för in-app analytics.
+
+#####Exempel 1: [The Dress Machine](http://www.hs.fi/kotimaa/a1305901177538)
+82k användare, 15k återvändande användare (19%). 1,4 miljoner actions, 17 per användare (högt relativt till deras andra projekt).
+
+37,1% valde år, 21,7% öppnade och stängde klänningar, 8,4% valde färg, 4% valde en annan skärning. Esa besviken på att så få valde färg. De hade hoppats att projektet hade blivit viralt, men det tog aldrig riktigt fart.
+
+#####Exempel 2: [Get yourself a Swedish name](http://www.hs.fi/kotimaa/a1305742444299)
+714k öppnade appen. 95,5% klickade på knappen (mycket bra). 4,2% delade på Facebook, vilket är hyfsat bra.
+
+#####Exempel 3: [Check when your name will be popular again](http://www.hs.fi/elama/a1305801877641)
+1,3 miljoner besök, varav 343k (26,1%) var siduppdateringar. Endast 1 miljon använde appen (78,5%). 87,7% av de som sökte på sitt namn hittade det i databasen. 3,4% av de som hittade sitt namn delade på Facebook.
+
+#####Exempel 4: [Where to buy a house](http://dynamic.hs.fi/2014/mistaostaa/)
+App där man anger sin budget och får en karta över vilka områden man har råd med. 44k användare, 3,9 sökningar per användare, totalt 173k sökningar.
+
+#####"Misslyckade" appar
+
+- [Hockey name generator](http://www.hs.fi/urheilu/a1305821795460): Färre än 10k besökare.
+- [Vote for your favorite chocolate](http://www.hs.fi/koti/a1305763184004): Ungefär 10k besökare. Ej värt arbetsinsatsen. Hypotes om oklar röstningsfunktion. Även tajmingproblem, publicerades två dagar före jul.
+- [Tensions in the Middle East](http://www.hs.fi/ulkomaat/a1412996026673): Få besök och kort besökstid. Huvudproblem antagligen att den är baserad på musrörelser. Hoverevent anpassade för desktop. Litet typsnitt på mobil.
+- [Life of Edward Munch](http://dynamic.hs.fi/2014/munch/): Färre än 10k besökare. Svårt att förstå varför det inte gick hem. Vissa saker fungerar inte lika bra på iOS, kan vara en anledning.
+
+#####Oväntat "lyckade" appar
+- [What's your new retirement age](http://www.hs.fi/kotimaa/a1411956233937): Tog ungefär en timme att göra, och blev väldigt populärt, en hel vecka. Konkurrenterna hade vanliga tabeller, och blev inte alls lika populära. Folk gillar att klicka.
+- [How lonely are you](http://dynamic.hs.fi/2014/yksinaisyyskysely/index.html): Besökarna svarar på frågor och får respons direkt. Emotionellt ämne.
