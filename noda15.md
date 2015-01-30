@@ -6,6 +6,7 @@ __Innehåll__
 * 2. Kristoffer Örstadius
 * 3. VG's do's and don'ts
 * 4. Interactive featuremaking (The Guardian)
+* 5. What should we expect the readers to know? (Helsingin Sanomat)
 
 ####1. Aron Pilhofer
 
@@ -167,3 +168,17 @@ App där man anger sin budget och får en karta över vilka områden man har rå
 #####Oväntat "lyckade" appar
 - [What's your new retirement age](http://www.hs.fi/kotimaa/a1411956233937): Tog ungefär en timme att göra, och blev väldigt populärt, en hel vecka. Konkurrenterna hade vanliga tabeller, och blev inte alls lika populära. Folk gillar att klicka.
 - [How lonely are you](http://dynamic.hs.fi/2014/yksinaisyyskysely/index.html): Besökarna svarar på frågor och får respons direkt. Emotionellt ämne.
+
+#####Vad ska man förvänta sig av läsarna?
+Ingenting.
+
+#####Saker att akta sig för
+Hoverevents är det nya blink, undvik. Sliders är oprecisa på mobil, men svåra att ersätta ibland. Även klick kan vara oprecisa på mobil. Se upp för små klickytor.
+
+3G är det nya 14400. Se till att mobilanpassa bilder och annat innehåll som kan vara segladdat på mobila nätverk.
+
+WOW! är dött. De flesta wow-effekter bygger på stora bilder och videoklipp, men det ger inte samma intryck på mobil. Dessutom ingen autoplay på mobil.
+
+Endast skroll är universellt.
+
+Var tydlig med vilken slags applikation besökarna har framför sig. Ha gärna med "quiz" i rubriken om det är ett quiz. Små hjälpdetaljer som skyltar, popups etc är underskattat. Behöver inte vara tecken på dålig design.
