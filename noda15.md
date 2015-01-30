@@ -212,3 +212,7 @@ Viktigt med samarbeten på tre områden: andra medieorganisationer, teknologiskt
 Bygg en öppenhetsfilosofi! Kodkulturen är minst lika viktig som journalistkulturen. Dela med er av kod och idéer och var inte hemlighetsfull om det inte behövs. Blogga! Datajournalistik för oss är en verklig omställning, och alla ska med. Ett projekt med GPS-data för mobiltelefoner involverade exempelvis 17 personer på redaktionen.
 
 Vissa har ifrågasatt varför man ska lägga så mycket resurser på en så smal nisch. Detta behöver motarbetas. Skapa innehåll för hela mediehuset.
+
+__Publikfråga från svenska Stampen:__ _Vad hade programmeraren för bakgrund?_
+
+Svar: Han hade tidigare drivit ett eget företag och hade inte haft med media att göra. Det var dock ett minimalt problem. Kom in i arbetssättet så småningom, och ett nytt perspektiv var nyttigt. 
