@@ -21,13 +21,14 @@ Varför är just antal klick och antal unika besökare intressant? Se t.ex. Medi
 
 ####2. Kristoffer Örstadius
 
+Dragning om att vara journalist och programmerare. En del om grundläggande kodsyntax, men även om tillvägagångssätt i konkreta projekt.
+
 #####[Myndigheter censurear Wikipediatexter](http://www.dn.se/ekonomi/myndigheter-censurerar-wikipediatexter/):
-Dan Eliasson.
 
 Byggde först upp en lista över IP-adresser.
 [Ripe.net](Ripe.net) användes för att söka på IP-nummer. Free database search. Full text search. Sökte manuellt igenom stora myndigheter som han tyckte var intressanta. Där fick han upp en rad olika IP-nummer som tillhörde t.ex. Försäkringskassan. Sen sökte han på de IP-numrena i Wikipedias sökfunktion. Men eftersom det var miljontals IP-nummer skrev han ett PHP-skript för att kolla resultaten.
 
-Tog 4 månaders att samla in datan.
+Tog 4 månaders att samla in datan. Visade sig sen att Dan Eliasson hade varit inne och redigerat i egen hög person.
 
 #####Oddsen för litteraturpriset:
 Skript som en gång i timmen gick in på de fem största bettingsajterna och kollade oddsen före utdelningen. Hade historiskt tenderat att sjunka timmarna före utdelning. Visade sig stämma även den här gången. Antagligen läcka i kommittén.
@@ -184,7 +185,9 @@ Endast skroll är universellt.
 
 Var tydlig med vilken slags applikation besökarna har framför sig. Ha gärna med "quiz" i rubriken om det är ett quiz. Små hjälpdetaljer som skyltar, popups etc är underskattat. Behöver inte vara tecken på dålig design.
 
-####6. Sunnmørsposten: Hvordan bygget vi #SMPlab?
+####6. Sunnmørsposten: Hvordan bygget vi [#SMPlab](https://smpno.wordpress.com/tag/smplab/)?
+
+Om hur Sunmörsposten byggde upp en datajournalistik redaktion.
 
 __Vad är datajournalistik för oss?__ Tre kriterier: ett bra dataunderlag, datafiltrering och digital storytelling.
 
@@ -196,10 +199,16 @@ Digital storytelling: Visualisera datan på sajten.
 __Hur kom vi igång?__
 Under startfasen började vi med att bygga och dela med oss av kompetensen på tidningen. Vi kartlade olika verktyg som fanns tillgängliga, vi körde workshops i huset, och vi gjorde försöksprojekt (i syfte att lära).
 
-Något av det allra första vi gjorde var att skapa Google Fusion-kartor (vilket vi inte använder oss av längre). Steg två var att lägga till lite grafik i kartorna (popups och ikoner).
+Något av det allra första vi gjorde var att skapa Google Fusion-kartor. Steg två var att lägga till lite grafik i kartorna (popups och ikoner).
 
 __Den heliga treenigheten:__ journalistik, webbdesign och programmering. När vi hade detta på plats på redaktionen kunde vi börja jobba.
 
 __Organisering:__ Vi började i en mörk hörna och gick till nyhetsdesken. Det är viktigt att jobba i samspel med resten av redaktionen. Vi sitter två meter från webbredaktionen.
 
 För attt skapa en innovationskultur: Skapa rum för lekfullhet och experiment. Var inte rädd för att misslyckas. Men styr leken i strategiskt viktiga riktningar. Växla mellan datatunga projekt till mer lekfulla storytellingprojekt.
+
+Viktigt med samarbeten på tre områden: andra medieorganisationer, teknologiskt kunniga organisationer och människor, samt universitetsvärlden.
+
+Bygg en öppenhetsfilosofi! Kodkulturen är minst lika viktig som journalistkulturen. Dela med er av kod och idéer och var inte hemlighetsfull om det inte behövs. Blogga! Datajournalistik för oss är en verklig omställning, och alla ska med. Ett projekt med GPS-data för mobiltelefoner involverade exempelvis 17 personer på redaktionen.
+
+Vissa har ifrågasatt varför man ska lägga så mycket resurser på en så smal nisch. Detta behöver motarbetas. Skapa innehåll för hela mediehuset.
