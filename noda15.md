@@ -5,6 +5,7 @@ __Innehåll__
 * 1. Aron Pilhofer
 * 2. Kristoffer Örstadius
 * 3. VG's do's and don'ts
+* 4. Interactive featuremaking (The Guardian)
 
 ####1. Aron Pilhofer
 
@@ -46,7 +47,7 @@ VG:s datajournalistikteam: en programmerare/datajournalist, två designers, och 
 Bli kontaktad av printreporter som har en färdigskriven artikel och som vill att man gör något med relaterad data "som säkert finns där", och publicera något NYT-mässigt tre dagar före publicering.
 
 #####En bättre process
-En journalist lyssnade på Aron Pilhofer på en konferens i Bergen och fick en idé om kreditskulder. Frågade om de kunde göra en interaktiv grej av det. Svaret: Kanske, vad finns det för data? Visade sig att journalisten med idén hade en stor Excelfil med välstrukturerad data på ämnet. __Första poängen__: Känn till datasituationen innan du går vidare.
+En journalist lyssnade på Aron Pilhofer på en konferens i Bergen och fick en idé om kreditskulder. Frågade om de kunde göra en interaktiv grej av det. Svaret: Kanske, vad finns det för data? Visade sig att journalisten med idén hade en stor Excelfil med välstrukturerad data på ämnet. Känn till datasituationen innan du går vidare.
 
 _När det blir skarpt nyhetsläge är det bara att släppa allt och jobba med de verktyg man är bekväm med. T.ex. interaktiv karta under terrorattackerna i Paris._
 
@@ -57,7 +58,11 @@ En annan journalist (i teamet) fick en idé om en guide där besökarna själva 
 Det hela blev storytellingprojektet [Gjeldskrisen](http://www.vg.no/spesial/2014/inkassokrisen/). Det viktiga för dem var att inte publicera alla siffror, utan aktivt tänka på vad folk är intresserade av. Resulterade i sökfunktionen som filtrerar fram den data som är intressant för besökaren i fråga.
 
 #####Flera typer av storytelling
-Tre kategorier de jobbar med: "Visual storytelling" (kräver mycket finess, se t.ex. [Laerdal](http://www.vg.no/spesial/2015/laerdal/) som var 50k tecken i tidningen, där den digitala versionen till viss del översattes till visuella element), "longreads" som är mer Snowfall-aktiga (kan bara berättas med text, t.ex. om pojke som begick självmord), och "the hybrid" (se t.ex. [Mysteriet – Scandinavian Star](http://scandinavian-star.vg.no/)) som inte har en klar storyline, där du snarare försöker berätta en del "substories" som t.ex. Estoniaprojekten.
+Tre kategorier de jobbar med:
+
+- "Visual storytelling" (kräver mycket finess, se t.ex. [Laerdal](http://www.vg.no/spesial/2015/laerdal/) som var 50k tecken i tidningen, där den digitala versionen till viss del översattes till visuella element)
+- "Longreads" som är mer Snowfall-aktiga (kan bara berättas med text, t.ex. om pojke som begick självmord)
+- "The hybrid" (se t.ex. [Mysteriet – Scandinavian Star](http://scandinavian-star.vg.no/)) som inte har en klar storyline, där du snarare försöker berätta en del "substories" som t.ex. Estoniaprojekten.
 
 #####Viktigt att veta om storytelling:
 
@@ -82,3 +87,54 @@ Viktigt att träna sig i digital storytelling. Läsarna älskar det när det bli
 - Kill some darlings
 - Remember your errors
 - HAVE FUN!
+
+####4. Interactive featuremaking (The Guardian)
+
+Med Francesa Panetta, Special Projects Editor. En genomgång av deras digitala projekt.
+
+#####[Bangladesh – The Shirt on Your Back](http://www.theguardian.com/world/ng-interactive/2014/apr/bangladesh-shirt-on-your-back)
+
+Text över film-projekt om klädindustrin i Bangladesh. Följde en fabriksarbetare. Det är en icke-linjär berättelse med grafiska element insprängda i texten.
+
+#####[The view from the Shard](http://www.theguardian.com/artanddesign/interactive/2013/feb/01/view-from-top-shard-london-interactive)
+
+Experiment med ljud i en kartmiljö.
+
+#####[Streetstories – King's Cross](http://www.theguardian.com/mobile/interactive/streetstories-sample-map-with-audio)
+
+En interaktiv guide i stadsmiljö. Känner av ens position och berättar historier om platsen.
+
+#####[Digital Deadly Sins](http://www.theguardian.com/technology/ng-interactive/2014/jun/06/-sp-digital-deadly-sins)
+
+En interaktiv berättelse om människors "synder" i den digitala världen.
+
+#####[First World War](http://www.theguardian.com/world/ng-interactive/2014/jul/23/a-global-guide-to-the-first-world-war-interactive-documentary)
+
+En interaktiv dokumentär om första världskriget med videomaterial från den tiden. Avsikten var att sammanfatta kriget för läsarna, utan att förenkla det alltför mycket. Det var viktigt att göra det till en global berättelse, vilket språkvalet i början vittnar om.
+
+Projektet involverade många personer med olika kompetenser, både internt och externt, t.ex. historiker, programmerare, designers, videoredigerare och representanter från museer.
+
+######Arbetsprocessen
+
+- December 2013: research
+- December 2013: hitta vinkeln (som blev det globala kriget)
+- December 2013: Koncept (wireframing). Här föddes idén om parallella berättelser.
+- December 2013: Ljud, idé om historiker från runtom i världen. Förintervjuer på telefon. Sammanställde deras berättelser i Excel.
+- Januari 2014: Inspelningar, experterna kom till Guardians studio och spelade in sina berättelser.
+- Januari-februari 2014: Redigering av berättelserna.
+- Mars 2014: Interaktiv design, konceptutveckling (Vad är det vi gör?, En eller flera filmer? Interaktion i eller utanför filmerna?). Skisser på papper och wireframing. Designen skulle vara modern, global och inspirerande. Topografin viktig för känslan, därav bakgrundskartan. Navigering bestämdes.
+- Januari-juni 2014: Video- och bildresearch. Man gick igenom Imperial War Museums arkiv.
+- Mars-juni 2014: Interaktiv media, jobbade med datateamet, museet, praktikanter etc. Började skriva texterna, jobbade med ljuddesignen, skapade gifar, gick igenom Guardians eget arkiv.
+- Mars-juni 2014: Byggandet börjar, iterativ process.
+- Mars-juni 2014: Översättningar. All text matades in i ett översättningskalkylark. En researcher jobbade heltid med detta.
+- Juli 2014: Tester av översättningar och funktionalitet.
+- Juli 2014: Marknadsstrategi, social media, pressrelease, intervjuer, Guardians blogg, Superpixie.
+- Juli 2014: Lansering, samarbete med andra europeiska tidningar, t.ex. El Pais.
+- Juli-december 2014: Nya översättningar med hjälp av crowdsourcing. Kommer snart att lanseras på holländska och indonesiska.
+
+######Utmaningar
+
+- Tidsåtgången
+- Att beskriva projektet (utan att veta hur det blir i slutet)
+- Personalhantering
+- Kostnad
