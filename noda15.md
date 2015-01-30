@@ -8,6 +8,7 @@ __Innehåll__
 * 4. Interactive featuremaking (The Guardian)
 * 5. What should we expect the readers to know? (Helsingin Sanomat)
 * 6. Hur vi byggde #SMPlab? (Sunnmørsposten)
+* 7. Live the story, through technology (Immersive Journalism)
 
 ####1. Aron Pilhofer
 
@@ -177,7 +178,7 @@ Ingenting.
 #####Saker att akta sig för
 Hoverevents är det nya blink, undvik. Sliders är oprecisa på mobil, men svåra att ersätta ibland. Även klick kan vara oprecisa på mobil. Se upp för små klickytor.
 
-3G är det nya 14400. Se till att mobilanpassa bilder och annat innehåll som kan vara segladdat på mobila nätverk.
+3G är det nya [14400](https://en.wikipedia.org/wiki/SupraFAXModem_14400). Se till att mobilanpassa bilder och annat innehåll som kan vara segladdat på mobila nätverk.
 
 WOW! är dött. De flesta wow-effekter bygger på stora bilder och videoklipp, men det ger inte samma intryck på mobil. Dessutom ingen autoplay på mobil.
 
@@ -215,4 +216,16 @@ Vissa har ifrågasatt varför man ska lägga så mycket resurser på en så smal
 
 __Publikfråga från svenska Stampen:__ _Vad hade programmeraren för bakgrund?_
 
-Svar: Han hade tidigare drivit ett eget företag och hade inte haft med media att göra. Det var dock ett minimalt problem. Kom in i arbetssättet så småningom, och ett nytt perspektiv var nyttigt. 
+Svar: Han hade tidigare drivit ett eget företag och hade inte haft med media att göra. Det var dock ett minimalt problem. Kom in i arbetssättet så småningom, och ett nytt perspektiv var nyttigt.
+
+####Live the story, through technology
+
+Av programmeraren bakom [Immersive Journalism](http://www.immersivejournalism.com/).
+
+Virtual Reality används i dag mest för spel och simuleringar, men hittar nya användningsområden hela tiden. Immersive Journalism använder den senaste gamingteknologin för att förmedla känslor, väcka besökarens uppmärksamhet, och ge en förstahandsupplevelse av händelser.
+
+Några projekt: Hunger in Los Angeles (2012), Use of Force (2014), Project Syria (2014).
+
+För Project Syria dokumenterade teamet allting, återskapade gator från video och foton och använde autentiska ljudklipp från platserna.
+
+Resten av dragningen går mest ut på att visa exempel och fruktansvärda klipp från Syrien.
