@@ -34,3 +34,11 @@ Granska officiell statistik (BRÅ). Kan man se om det fuskades med siffror i inr
 Tankade hem data om vädret dagen efter, och jämförde sen hur bra de stämmer överens. Stämde bara vid hälften av tillfällena.
 
 ####3. VG's do's and don'ts (lärdomar 2014)
+
+VG:s datajournalistikteam: en programmerare/datajournalist, två designers, och en "journalist in a new way". En ny anställd börjar i april.
+
+Dålig process: Bli kontaktad av printreporter som har en färdigskriven artikel och som vill att man gör något med relaterad data "som säkert finns där", och publicera något NYT-mässigt tre dagar före publicering.
+
+En bättre process: En journalist lyssnade på Aron Pilhofer på en konferens och fick en idé om kreditskulder. Frågade om de kunde göra en interaktiv grej av det. Svaret: Kanske, vad finns det för data? Visade sig att journalisten med idén hade en stor Excelfil med välstrukturerad data på ämnet. Första poängen: Känn till datasituationen innan du går vidare.
+
+När det blir skarpt nyhetsläge är det bara att släppa allt och jobba med de verktyg man är bekväm med. T.ex. interaktiv karta under terrorattackerna i Paris.
