@@ -9,6 +9,7 @@ __Innehåll__
 * 5. What should we expect the readers to know? (Helsingin Sanomat)
 * 6. Hur vi byggde #SMPlab? (Sunnmørsposten)
 * 7. Live the story, through technology (Immersive Journalism)
+* 8. Security matters (Runa Sandvik)
 
 ####1. Aron Pilhofer
 
@@ -229,3 +230,9 @@ Några projekt: Hunger in Los Angeles (2012), Use of Force (2014), Project Syria
 För Project Syria dokumenterade teamet allting, återskapade gator från video och foton och använde autentiska ljudklipp från platserna.
 
 Resten av dragningen går mest ut på att visa exempel och fruktansvärda klipp från Syrien.
+
+####8. Security matters (Runa Sandvik)
+
+Om digital säkerhet, hot och mjukvara.
+
+[Securedrop](https://freedom.press/securedrop), anonymous whistleblowing platform.
