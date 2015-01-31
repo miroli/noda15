@@ -234,5 +234,33 @@ Resten av dragningen går mest ut på att visa exempel och fruktansvärda klipp 
 ####8. Security matters (Runa Sandvik)
 
 Om digital säkerhet, hot och mjukvara.
-
+hgf
 [Securedrop](https://freedom.press/securedrop), anonymous whistleblowing platform.
+
+GCHQ har listat "undersökande journalister" på samma hotnivå som terrorister och (illasinnade) hackers (The Guardian, 19 jan).
+
+Använd samma säkerhetstänkande online som offline. Du håller alltid ögonen öppna när du korsar en väg, på samma sätt bör man som journalist även ha ett grundläggande säkerhetstänkande även för helt harmlösa jobb. Viktigt att jobba in säkerhetsrutiner.
+
+Fyra frågor att ställa sig:
+
+- 1. Vilken information vill du låta vara privat?
+- 2. Vem vill ha reda på informationen?
+- 3. Vad kan de göra för att ta reda på informationen?
+- 4. Vad händer om de lyckas?
+
+Efter Snowden har antalet tjänster som kallar sig "NSA-säkra" skjutit i höjden. De flesta är skräp. Runa Sandvik rekommenderar verktyg som är gratis, open source och transparenta. Ingen vits med stängda system som tekniskt kunniga människor inte har försökt att knäcka. Tor är ett exempel på ett system som är fortsatt säkert trots många försök att knäcka den öppna källkoden.
+
+I Europa finns något som heter Key Disclosure Law. Finns exempel på personer som har behövt avkryptera sina hårddiskar innan de går ombord på plan. Finns personer i Storbritannien som avtjänar tvååriga fängelsestraff för att ha vägrat lämna ut sina krypteringslösenord.
+
+Viktigaste för medelstora mediaredaktioner vad gäller säkerhet är att kryptera sina laptops. NRK kommer att tillhandahålla krypterade datorer åt alla sina anställda nästa år.
+
+[Surveillance self-defense](https://ssd.eff.org/) är en uttömmande guide för digital säkerhet.
+
+Tips för att använda Tor:
+
+- 1. Använd inte Tor för att ladda ner torrents.
+- 2. Installera inte plugins eller tillägg
+- 3. Logga inte in på sidor utan HTTPS
+- 4. Din identitet kan avslöjas om du laddar ner filer (t.ex. en Wordfil som kan laddas ner anonymt, men i sin tur innehåller bilder som den inte laddar ner genom Tor)
+
+RedPhone (Android) & Signal (iOS) utvecklas av Open WhisperSystems, och är ett verktyg för att kryptera kommunikation och innehåll på telefoner. Båda parter behöver ha appen installerad.
